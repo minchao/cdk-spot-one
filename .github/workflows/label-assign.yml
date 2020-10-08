@@ -1,4 +1,4 @@
-name: "Set Issue Label and Assignee"
+name: "Set Issue Label and Assignee test"
 on:
   pull_request:
     types:
